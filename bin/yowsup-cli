@@ -1,0 +1,4 @@
+#!/Users/ranjeetsinghyadav/python/workspace/whatsappchat/bin/python
+# EASY-INSTALL-SCRIPT: 'yowsup2==2.4.102','yowsup-cli'
+__requires__ = 'yowsup2==2.4.102'
+__import__('pkg_resources').run_script('yowsup2==2.4.102', 'yowsup-cli')
